@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gtatools-gui_de.qm</file>
+        <file>gtatools-gui_en.qm</file>
+        <file>src/shader/vertex.glsl</file>
+        <file>src/shader/fragment.glsl</file>
+        <file>src/shader/vertex_col.glsl</file>
+        <file>src/shader/fragment_col.glsl</file>
+        <file>src/shader/vertex_es.glsl</file>
+        <file>src/shader/fragment_es.glsl</file>
+        <file>src/shader/vertex_col_es.glsl</file>
+        <file>src/shader/fragment_col_es.glsl</file>
+        <file>src/resource/wireframe.png</file>
+        <file>src/resource/texture.png</file>
+        <file>src/resource/document-open.png</file>
+        <file>src/resource/document-save.png</file>
+        <file>src/resource/document-save-as.png</file>
+        <file>src/resource/view-fullscreen.png</file>
+        <file>src/resource/media-playback-pause.png</file>
+        <file>src/resource/media-playback-start.png</file>
+        <file>src/resource/media-playback-stop.png</file>
+        <file>src/resource/media-seek-backward.png</file>
+        <file>src/resource/media-seek-forward.png</file>
+        <file>src/resource/media-skip-backward.png</file>
+        <file>src/resource/media-skip-forward.png</file>
+    </qresource>
+</RCC>

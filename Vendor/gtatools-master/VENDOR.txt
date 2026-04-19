@@ -1,0 +1,23 @@
+gtatools-master (поставщик для d11_sa)
+=====================================
+
+Назначение: библиотеки и утилиты для форматов GTA (libgtaformats, libgta, gtaimg, gtatxd и др.).
+
+Подключение в MSBuild (Client.vcxproj):
+  - В AdditionalIncludeDirectories добавлен корень исходников libgtaformats:
+    Vendor/gtatools-master/src/libgtaformats/src
+  - Публичные заголовки: #include <gtaformats/gta.h>, <gtaformats/dff/DFFLoader.h> и т.д.
+
+Важно — зависимости libgtaformats (см. DEPENDENCIES и README.md в корне):
+  - Обязательно: Boost (header-only smart_ptr), отдельный репозиторий libnxcommon
+ https://github.com/alemariusnexus/nxcommon
+  - Опционально: libsquish (DXT), PVRTexLib
+  Сейчас в дереве Vendor только gtatools; nxcommon нужно добавить отдельно, если планируется
+  компиляция и линковка libgtaformats из Visual Studio.
+
+Сборка штатным способом upstream: CMake из каталога Vendor/gtatools-master/src
+  (отдельно от решения D11_SA.sln).
+
+Лицензия: GPLv3+ (и GPLADDITIONS). Линковка проприетарного кода с библиотеками gtatools без соблюдения GPL, как правило, недопустима; см. COPYING в корне gtatools-master.
+
+Upstream: GTATools / Alemarius Nexus — http://dlerch.de/gtatools

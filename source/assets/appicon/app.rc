@@ -1,0 +1,5 @@
+#include "resource.h"
+
+// Файл рядом с app.rc: source/assets/appicon/CJ.ico
+IDI_APP_ICON ICON "CJ.ico"
+
