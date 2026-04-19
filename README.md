@@ -1,5 +1,5 @@
 # D11_SA
-<img width="2560" height="1392" alt="image" src="https://github.com/user-attachments/assets/4edc5f1f-c531-48db-b56e-d9bb393c6b73" />
+<img width="1922" height="1112" alt="{91C40C1D-1479-4AA6-84D7-58CFC08A2CAB}" src="https://github.com/user-attachments/assets/6448af0c-fd39-4c9d-96c3-89f5c13d65b3" />
 
 
 ## Русский
@@ -56,3 +56,7 @@
 
 <img width="2560" height="1392" alt="{034CC517-11AC-431A-A3C0-CE260C18BB7E}" src="https://github.com/user-attachments/assets/725c7d33-f8f1-41aa-9658-2a29d088b17e" />
 <img width="1922" height="1112" alt="{1A75D32A-7F79-4B35-978C-2D1D1011F062}" src="https://github.com/user-attachments/assets/7cb61b71-77ae-45e9-ba23-a43628fba43a" />
+<img width="1922" height="1112" alt="{A00FD4F2-F68E-4C46-989C-5D0844F558B8}" src="https://github.com/user-attachments/assets/122153d7-8c6b-481c-b41a-d7bba53af985" />
+<img width="1922" height="1112" alt="{496F275B-DECF-46E7-BC48-E918278C61A8}" src="https://github.com/user-attachments/assets/2cad7fa8-50d2-4b82-b6dc-7995708f630d" />
+
+
